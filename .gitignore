@@ -70,8 +70,9 @@ download_history.json
 logs/
 *.log
 
-# FFmpeg binaries
-ffmpeg/
+# FFmpeg binaries (폴더는 유지, 내용물만 제외)
+ffmpeg/*
+!ffmpeg/.gitkeep
 
 # Temporary files (루트 디렉터리만)
 /test_*.py

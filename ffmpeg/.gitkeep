@@ -1,0 +1,8 @@
+# 이 파일은 ffmpeg/ 폴더를 Git에 포함시키기 위한 더미 파일입니다.
+# 
+# FFmpeg 바이너리 다운로드 방법:
+# 1. https://www.gyan.dev/ffmpeg/builds/ 접속
+# 2. ffmpeg-git-essentials.7z 다운로드
+# 3. 압축 해제 후 bin/ffmpeg.exe를 이 폴더에 복사
+#
+# 자세한 내용은 docs/Build guide.md를 참조하세요.

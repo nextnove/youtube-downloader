@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.spec
+
+# Test coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# UV
+.venv/
+uv.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Downloads
+downloads/
+*.mp4
+*.webm
+*.mkv
+*.srt
+*.vtt
+
+# Cookies (보안)
+cookies.txt
+
+# Config (사용자 설정)
+config.json
+
+# History (다운로드 히스토리)
+download_history.json
+
+# Logs
+logs/
+*.log
+
+# FFmpeg binaries
+ffmpeg/
+
+# Temporary files (루트 디렉터리만)
+/test_*.py
+/debug_*.py
